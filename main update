@@ -12,8 +12,8 @@ class TodolistApp:
         self.tasks = []
         self.current_file = None
 
-        self.en_cours_color = "#000000"  # couleur par défaut: noir
-        self.terminees_color = "#808080"  # couleur par défaut: gris
+        self.en_cours_color = "#000000"  # couleur par défaut
+        self.terminees_color = "#808080"  # couleur par défaut
         self.current_font = "Helvetica"
         self.current_font_size = 12
 
