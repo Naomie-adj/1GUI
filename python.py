@@ -183,7 +183,7 @@ class TodolistApp():
  
     def infos(self):
         messagebox.showinfo("À propos",
-                            "TO DO LIST APP\nVersion 1.0.0\nDéveloppeurs: ADJOVI Naomie et NZOUDJA Billie\nAnnée d'édition: 2024\nDépot GitHub: https://github.com/Naomie-adj/1GUI")
+                            "TO DO LIST APP\nVersion 1.0.0\nDéveloppeurs: ADJOVI Naomie et NZOUDJA Billie\nAnnée d'édition: 2024\nDépot GitHub: https://github.com/Naomie-adj/1GUI,https://github.com/NZOUDJA82/projet")
  
     def ajouter_tache(self):
         task_text = simpledialog.askstring("Ajouter Tâche", "Description de la tâche:")
