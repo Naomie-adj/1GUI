@@ -13,7 +13,7 @@ TodoListApp est une application de gestion de tâches développée en Python ave
 - Marquer une tâche comme terminée
 - éditier les tâches (toutes, en cours, terminées)
 - Sauvegarder et charger des listes de tâches au format JSON
-- Configuration des couleurs et des polices pour les tâches
+- Configurer l'apparence (couleurs et police) des tâches
 
 ## Installation
 
@@ -25,4 +25,9 @@ TodoListApp est une application de gestion de tâches développée en Python ave
 ## Utilisation
 
 Pour lancer l'application, exécutez le fichier `todolist.py` sur votre IDE
+
+## Dévéloppeurs
+
+ADJOVI Naomie ; https://github.com/Naomie-adj/1GUI
+NZOUDJA Billie ; https://github.com/NZOUDJA82/projet
 
